@@ -1,0 +1,5 @@
+C:\My Dropbox\SOURCES\HelloEC2\HelloEC2\bin\HelloEC2.dll
+C:\My Dropbox\SOURCES\HelloEC2\HelloEC2\bin\HelloEC2.pdb
+C:\My Dropbox\SOURCES\HelloEC2\HelloEC2\obj\Debug\ResolveAssemblyReference.cache
+C:\My Dropbox\SOURCES\HelloEC2\HelloEC2\obj\Debug\HelloEC2.dll
+C:\My Dropbox\SOURCES\HelloEC2\HelloEC2\obj\Debug\HelloEC2.pdb

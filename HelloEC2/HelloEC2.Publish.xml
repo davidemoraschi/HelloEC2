@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ec2-50-19-8-225.compute-1.amazonaws.com" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="EC2 Publishing Profile" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="Administrator" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfvI68W7X2kCQ7sQ7RoILJQAAAAACAAAAAAAQZgAAAAEAACAAAABKdCB/0qSy44A3nDxUE6Mg2eVViiLjxdpG/gtblHLq5gAAAAAOgAAAAAIAACAAAACuu8oT3mc3rgL54Bw/4RgzQdkU+c0BzPn61ayy66NASCAAAADDZ6Nm10wLt8Lv4bwRfioILAwFRSdOuGagFXV8EJy0KEAAAAAyeWTiBecTXjtyxjF+fevgr7i8cuq7Y7wMcjT40XwGRFY4hGirVbGHcieQ1FyimfYY9f2KP04qsDmEL0Xwj9iw" SelectedForPublish="True" />
+</publishData>
